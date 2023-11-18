@@ -17,5 +17,5 @@ Enable Lightbox for Images,yes,yes or no
 Credits,,
 Author Name,Lena Miller,"Appears in map credits as ""View data by..."" (or leave blank)"
 Author Email or Website,,Create link in Author Name by inserting your email or web address (or leave blank)
-Author GitHub Repo Link,https://github.com/lenamillr/GIS495_FinalProject.git,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
+Author GitHub Repo Link,https://github.com/lenamillr/GIS495_finalproject_storymap.git,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
 Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
