@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- https://lenamillr.github.io/leaflet_storymap_2023/](https://lenamillr.github.io/GIS495_finalproject_storymap/
+- https://lenamillr.github.io/GIS495_finalproject_storymap/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1-UE9s5xWble2rJmw-B86TtEGK2axyLQrLvXSB0eIU9Q/edit#gid=252186071
 
 ## Create Your Own
