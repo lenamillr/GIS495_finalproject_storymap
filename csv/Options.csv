@@ -1,8 +1,8 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in [HandsOnDataViz.org](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)"
 Storymap Title,"Air Quality in Sequoia National Park, California",
-Storymap Subtitle,GIS 495 Final Project<br><small>Scroll down<i class='fafa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
-Storymap Logo,media/nps-logo.png,Path to a logo image
+Storymap Subtitle,Lena Miller - GIS 495 Final Project<br><small>Scroll down<i class='fafa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
+Storymap Logo,media/sequoia_logo.png,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,
 Basemap Tiles,CartoDB.Positron,[Drop-down menu for background basemap tiles](https://leaflet-extras.github.io/leaflet-providers/preview/)
